@@ -6,6 +6,7 @@ obs: o simbolo ```∈``` significa ```pertence```
 ## Numeros inteiros
 - São apenas numeros inteiros ***negativos*** e ***positivos***. Aqui a classe de números N é englobada, então ```N ∈ Z```
 ```(..., -3, -2, -1, 0, 1, 2, 3, ...) ∈ Z```
+obs: Z* = numeros inteiros não nulos 
 ## Numeros racionais
 - São todos os numeros com vírgula, então são ***inteiros***, ***negativos*** e ***frações*** ```p/q```. Aqui a classe de numeros Z e N são englobadas, então ```N ∈ Z ∈ Q```
 ```(..., -3, -2, -1, -0.5 ou 1/2, 0, 0.5 ou 1/2, 1, 2, 3, ...) ∈ Q```
