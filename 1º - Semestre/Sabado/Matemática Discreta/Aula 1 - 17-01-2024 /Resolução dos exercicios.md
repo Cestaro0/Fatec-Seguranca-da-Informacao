@@ -15,7 +15,7 @@ g - 0 ∈ Q
 ```
 a - V
 b - V
-c - V
+c - F
 d - F
 e - F
 f - F
