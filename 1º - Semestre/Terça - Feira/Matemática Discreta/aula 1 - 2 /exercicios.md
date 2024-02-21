@@ -8,8 +8,8 @@ D: Conjunto das diagonais do triângulo ABC
 
 ## Resolução
 ```
-A: A = { 1, 2, 4, 8}
-B: A = { 3, 6, 9, 12, 15, ...}
+A: A = {-8, -4, -2, -1, 1, 2, 4, 8}
+B: A = { 0, 3, 6, 9, 12, 15, ...}
 C: A = { A, E, I, O}
 D: A = { }
 ```
