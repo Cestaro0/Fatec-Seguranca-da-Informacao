@@ -9,5 +9,8 @@ D: Conjunto das diagonais do triângulo ABC
 ## Resolução
 ```
 A: A = { 1, 2, 4, 8}
-B: A = { x | x seja numero nartural multiplo de 3}
+B: A = { 3, 6, 9, 12, 15, ...}
+C: A = { A, E, I, O}
+D: A = { }
 ```
+
