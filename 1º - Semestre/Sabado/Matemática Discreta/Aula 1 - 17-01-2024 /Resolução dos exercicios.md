@@ -35,10 +35,10 @@ E - A massa de um ovo
 ## Resolução
 ```
 A - N
-B - R
+B - Q
 C - Z
-D - R*
-C - R*
+D - Q
+C - Q
 ``` 
 ## Exercicio 3
 Qual a proposição abaixo é verdadeira?
