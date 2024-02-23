@@ -40,7 +40,7 @@ Classe operária
 1. **ANÁLISE DO TRABALHO E ESTUDO DOS TEMPOS E MOVIMENTOS**: o tempo-padrão para executar uma determinada tarefa, com economia de movimentos. ​
 2. **ESTUDOS DA FADIGA HUMANA**: Diminuição da produtividade e qualidade do trabalho; Perda de tempo; Aumento da rotatividade de pessoal; Doenças e acidentes; Diminuição da capacidade de esforço.​
 3. **DIVISÃO DO TRABALHO E ESPECIALIZAÇÃO DO OPERÁRIO**: Aumento da especialidade; Perda da liberdade; Perda da iniciativa na execução das tarefas; Repetição, padronização e simplicidade. ESPECIALIZAÇÃO = aumento da EFICIÊNCIA​
-4. **DESENHO DE CARGO E TAREFAS**: Tarefa: menor unidade possível dentro da divisão do trabalho em uma organização. Cargo: conjunto de tarefas executadas de maneira cíclica ou repetitiva. Conjunto de cargos: seção. Desenho de Cargo: maneira como um cargo é criado, projetado e combinado com outros cargos. ​
+4. **DESENHO DE CARGO E TAREFAS**: _**Tarefa**_: menor unidade possível dentro da divisão do trabalho em uma organização. Cargo: conjunto de tarefas executadas de maneira cíclica ou repetitiva. Conjunto de cargos: seção. Desenho de _**Cargo**_: maneira como um cargo é criado, projetado e combinado com outros cargos. ​
 5. **INCENTIVOS SALARIAIS E PRÊMIOS DE PRODUÇÃO**: Remuneração baseada no tempo - Tempo Padrão: tempo médio para um operário realizar a tarefa.  Eficiência equivalente a 100% estimado para produzir dentro de um tempo.  Acima de 100% a remuneração por peça passou a ser acrescida.
 
 
