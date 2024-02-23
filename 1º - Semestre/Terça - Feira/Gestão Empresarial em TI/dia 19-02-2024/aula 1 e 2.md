@@ -43,5 +43,16 @@ Classe operária
 4. **DESENHO DE CARGO E TAREFAS**: _**Tarefa**_: menor unidade possível dentro da divisão do trabalho em uma organização. Cargo: conjunto de tarefas executadas de maneira cíclica ou repetitiva. Conjunto de cargos: seção. Desenho de _**Cargo**_: maneira como um cargo é criado, projetado e combinado com outros cargos. ​
 5. **INCENTIVOS SALARIAIS E PRÊMIOS DE PRODUÇÃO**: Remuneração baseada no tempo - Tempo Padrão: tempo médio para um operário realizar a tarefa.  Eficiência equivalente a 100% estimado para produzir dentro de um tempo.  Acima de 100% a remuneração por peça passou a ser acrescida.
 
+**Ford**: trabalhava com JIT (jist in time)
+```
+Ambiente externo > Entrada > Processamento > Saída > Ambiente externo
+```
+Defendia a ideia que todos poderiam ter um carro
+
+### Fayol (pai do administrador)
+#### Criação de departamentos
+Separou habilidade administrativa x conhecimento tecnológico.
+Perfil do administrador: qualidades, conhecimento e experiência.
+Atividades de uma empresa: Técnicas, comerciais, financeiras, de segurança, contábeis, administrativa.
 
 
