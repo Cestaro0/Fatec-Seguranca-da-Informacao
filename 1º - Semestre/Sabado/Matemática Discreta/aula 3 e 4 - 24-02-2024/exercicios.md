@@ -27,7 +27,9 @@ y = { -9, -8, -7, -6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 }
 ![image](https://github.com/Cestaro0/Fatec-Seguranca-da-Informacao/assets/99103680/9a2abb97-4241-4e8e-a375-3c7d5a0ead86)
 
 Considere os conjuntos C = { 1 }, D = { 1, 2, 3 }, E = { 1, 3, 5, 7, 9, ... }, F conjunto dos numeros primos.
+
 Classifique em verdadeiro ou falso
+
 ![image](https://github.com/Cestaro0/Fatec-Seguranca-da-Informacao/assets/99103680/09f83ee0-a7ed-4979-beb5-39627da9ba3e)
 
 Resolução
@@ -43,3 +45,6 @@ h. Falso
 i. Falso
 ```
 
+
+
+![image](https://github.com/Cestaro0/Fatec-Seguranca-da-Informacao/assets/99103680/88b888e2-c9ef-460d-a17e-db192cf8ec3e)
