@@ -1,4 +1,4 @@
-```c+++
+```c++
 int redLed1 = 7;
 int redLed2 = 4;
 
