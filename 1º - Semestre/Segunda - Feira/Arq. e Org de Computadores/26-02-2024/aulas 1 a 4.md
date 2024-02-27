@@ -6,6 +6,7 @@ diferença: É que os computadores realizam numeros binarios para comunicação
 ## Precisão finita
 
 IPV4 - 2³²: 192.168.10.25
+
 IPV6 - 2¹²⁸
 
 Numeros de precisao finita acabam invalidadndo essas quatro operações basicas, como mostrado a seguir , se usarmos números decimais de três digitos como exemplo:
