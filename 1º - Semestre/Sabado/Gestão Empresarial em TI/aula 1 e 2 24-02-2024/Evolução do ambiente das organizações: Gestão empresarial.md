@@ -56,3 +56,29 @@ A burocracia apresenta as seguintes características:​
 6. Rotinas padronizadas: Todas as atividades de cada cargo são desempenhadas segundo padrões claramente definidos, nos quais cada conjunto de ações está funcionalmente relacionado com os propósitos da organização, segundo uma maneira ideal. Esses padrões facilitam a pronta avaliação do desempenho de cada participante.​
 
 7. Competência técnica: A burocracia é uma organização na qual a escolha das pessoas é baseada no mérito e na competência técnica e não em preferências pessoais, 
+
+8. Administração difere da propriedade: A burocracia é uma organização que se baseia na separação entre propriedade e administração, ou seja, os administradores da burocracia não são donos ou proprietários. Com essa característica surge o profissional que se especializa em gerir a organização e proporciona o gradativo afastamento do capitalista na gestão dos negócios.  ​
+
+9. Profissionalização dos participantes: A organização burocrática se caracteriza pela profissionalização dos seus participantes. Os cargos de uma burocracia oferecem a seus ocupantes carreira profissional e meios de vida, além de formação. A escolha para ocupar o cargo deve-se a qualificações, que são aprimoradas por meio de treinamento especializado. A participação nas burocracias tem um caráter ocupacional​
+
+10. Previsibilidade de funcionamento: A consequência desejada da burocracia é a previsibilidade do comportamento de seus membros. Tudo na burocracia é estabelecido no sentido de prever antecipadamente todas as ocorrências e rotinizar sua execução, seus participantes têm conhecimento das suas tarefas e a organização mantém uma interpretação unívoca de suas comunicações.​
+
+DISFUNÇÕES DA BUROCRACIA​
+
+Ao estudar as consequências previstas (ou desejáveis) da burocracia que conduzem à máxima eficiência notou-se consequências imprevistas (ou indesejáveis) levam à ineficiência e às imperfeições não previstas ao qual ele nomeou de disfunções da burocracia:​
+
+PARTICULARISMO=  Defesa de interesses de grupos externos, por convicção, amizade ou interesses materiais​
+
+SATISFAÇÃO DE INTERESSES PESSOAIS: Defesa de interesses pessoais dentro da organização. Nepotismo, negócios com empresas da família.
+
+EXCESSO DE REGRAS = Multiplicação das regras e exigências para qualquer atividade.​
+
+HIERARQUIA = Divisão de responsabilidades e travamento do processo decisório. Incentivo à vaidade e à luta pelo poder.​
+
+MECANICISMO = Pessoas colocadas em situações alienantes.​
+
+PATRIMONIALISMO =palavra usada para designar a prática em que o funcionário usa a organização para realizar objetivos pessoais ou utiliza recursos da organização em benefício próprio. Esta palavra é usada para indicar o costume dos políticos de usar a máquina do estado como se fosse propriedade sua. ​
+
+REGULAMENTAÇÃO = Frequentemente as organizações formais exageram na tentativa de regulamentar tudo o que for possível a respeito do comportamento humano, criando regras em excesso e funcionários em excesso para fiscalizar o cumprimento dessas regras. Assim sendo, a burocracia torna-se sinônimo de complicações para o usuário, e muitas vezes permite, como o folclore já consagrou, que funcionários desonestos criem dificuldades para vender facilidades.​
+
+O HIERARQUISMO =   Consiste na valorização excessiva da hierarquia e de suas formalidades, que passam a ser conclusões em si mesmas. A organização gasta muito tempo e energia com solenidades, cuidados com suas próprias instalações, privilégios e símbolos de prestígio de seus hierarcas, que se protegem de seus subordinados por meio de mecanismos coercitivos.​
