@@ -11,3 +11,4 @@ Em uma pesquisa sobre a proeficiencia para o consumo de dois produtos, foram ent
 
 # Resolução questão 3
 ![image](https://github.com/Cestaro0/Fatec-Seguranca-da-Informacao/assets/99103680/cd15a225-8822-4fed-8073-dc2ae718c609)
+
