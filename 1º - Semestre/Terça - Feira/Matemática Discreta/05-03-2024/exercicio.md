@@ -3,3 +3,5 @@
 # Resolução
 
 ![image](https://github.com/Cestaro0/Fatec-Seguranca-da-Informacao/assets/99103680/5c1222af-e284-4a49-ae68-195c86761081)
+
+C) 22 alunos
