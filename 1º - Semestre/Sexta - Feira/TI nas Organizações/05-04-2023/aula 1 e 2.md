@@ -6,6 +6,9 @@
 set [OPÇÃO] NOME_VAR=[VALOR]
 ```
 
+![image](https://github.com/Cestaro0/Fatec-Seguranca-da-Informacao/assets/99103680/5ae0f94a-a336-4a08-987f-3caef89df95a)
+
+
 informações adicionais do prompt:
 ```py
 Exibe, define ou remove variáveis de ambiente do cmd.exe.
@@ -200,5 +203,62 @@ set /p nome=Digite o rg:
 ```
 exemplo de utilização de variavel em prompt:
 
-![image](https://github.com/Cestaro0/Fatec-Seguranca-da-Informacao/assets/99103680/5ae0f94a-a336-4a08-987f-3caef89df95a)
+![image](https://github.com/Cestaro0/Fatec-Seguranca-da-Informacao/assets/99103680/368ea203-5923-43f5-ba07-901724152544)
 
+
+## /a
+
+Armazena uma operação lógica
+
+```py
+set [OPÇÃO] NOME=EXPRESSÃO
+
+set /a exp=780+220
+```
+
+exemplo de uso no prompt:
+
+![image](https://github.com/Cestaro0/Fatec-Seguranca-da-Informacao/assets/99103680/795106d5-9c1e-4c33-acc1-4d68665f1c1a)
+
+programa de teste lógico
+
+Faça um programa que receba 3 variaveis e faça a media entre elas, e se a nota for abaixo de 6, ele estará reprovado:
+
+
+comandos de if e else. Operadores lógicos:
+```py
+igual (EQU = ou ==)
+Diferente (NEQ #)
+Menor que (LSS <)
+Manor ou igual (LEQ <=)
+Maior que (GTR >)
+Maior ou igual (GEQ >=)
+````
+
+Em variaveis:
+```py
+Definido (DEFINED [variaveis sem %])
+Condição negativa (NOT)
+```
+
+arquivos:
+```py
+Existe (EXIST)
+Condição Negativa (NOT)
+```
+
+```c++
+C:\skol>set /p n1=Digite a nota 1:
+Digite a nota 1:10
+
+C:\skol>set /p n2=Digite a nota 2:
+Digite a nota 2:3
+
+C:\skol>set /p n3=Digite a nota 3:
+Digite a nota 3:2
+
+C:\skol>set /a media=(%n1%+%n2%+%n3%)/3
+5
+C:\skol>if %media% GTR 6 (echo aprovado) else (echo reprovado)
+reprovado
+```
