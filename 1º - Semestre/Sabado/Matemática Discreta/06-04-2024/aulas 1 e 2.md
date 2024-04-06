@@ -2,11 +2,11 @@
 
 1. Qual dos conjuntos abaixo é unitário?
 
-[x] A) Conjuntos das cores da camisa do Flamengo
+A) Conjuntos das cores da camisa do Flamengo
 
 B) Conjunto das vogais da palavra GATO
 
-C) conjunto dos oceanos que banham o Brasil
+[x]C) conjunto dos oceanos que banham o Brasil
 
 C) Conjunto das letras da palavra LULU
 
