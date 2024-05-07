@@ -25,3 +25,5 @@ A medida que descemos da hierarquia, alguns parametros aumentam:
 | Acesso   |  Sequencial| Aleatório   |
 | Persistencia dos Dados | volátil | Não Volátil |
 | Alterações de Dados | Somente Leitura | Leitura / Escrita|
+
+
