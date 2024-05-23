@@ -23,8 +23,7 @@ if __name__ == '__main__':
 
 ## Exercicio 2
 ```py
-print('entre com 3 medidas de um triangulo')
-a, b, c = input().split()
+a, b, c = map(float, input('entre com 3 medidas de um triangulo').split())
 a = float(a)
 b = float(b)
 c = float(c)
