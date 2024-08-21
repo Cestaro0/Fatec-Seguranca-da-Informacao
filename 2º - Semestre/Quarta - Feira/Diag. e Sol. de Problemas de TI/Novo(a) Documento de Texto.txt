@@ -1,0 +1,14 @@
+# Introdução à Segurança da Informação
+
+ - Dado: O dado bruto; Nome, Telefone, CPF;
+ - Informação: Conjunto agregados de dados; Cadastro -> Nome + Telefone + CPF;
+ - Conhecimento: Aplicação; Vivencia e conhecimento na aplicação da informação (ou o conjunto delas) com contexto.
+
+
+
+## CID
+ - Confidencialidade; Diz respeito a ter direito de acesso;
+ - Integridade; Diz respeito a exatidão (imutabilidade);
+ - Disponibilidade; Manter a informação sempre disponivel para a empresa (SLA);
+   - Autencidade; Fonte (origem), assinatura digital;
+   - Não repúdio; O autor da ação não pode negar tal ação;
