@@ -1,0 +1,13 @@
+# Redes de computadores
+
+ABRANGENCIA: Espaço físico da rede;
+  - PAN (Personal Área Network) - Área de trabalho (com fio) de até 10m
+  - WPAN (Wireless Personal Área Network) - Rede de área pessoal sem fio (pode ser mista)
+  - LAN (Local Área Network) - Rede local, na qual se concentra um alcance maior 
+  - WLAM (Wireless Local Área Network) - Rede local sem fio, na qual se concentra um alcance maior (pode ser mista)
+  - CAN (Campus Área Network) - Rede de Área do campus
+  - MAN (Metropolitan Área network) - Rede de Área Metropolitana. Interliga varias LAN geograficamente próximas
+  - WAN (Wide Área Network) - Rede de longa Distância. Além da MAN, pode tomar conta de um país ou continente
+  - Internet - Rede global
+  
+TOPOLOGIA: 
