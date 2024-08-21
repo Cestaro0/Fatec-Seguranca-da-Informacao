@@ -1,0 +1,34 @@
+## Sistemas operacionais (aula passada)
+
+1. Por que o modulo - objeto gerado pelo traditor ainda não pode ser executado.
+R: isso ocorre porque o linker ainda não o executou.
+
+2. Por que a execução de programas interpretados é mais lenta que a de programas compilados?
+R: O interpretador não utiliza modulos objetos; isso justifica a lentidão. Sendo traduzida todas as vezes que for executado.
+
+3. Quais as funções do linker?
+R: Criação de endereçamento(simbolos) dos módulos objetos e reservar espaço na memória para armazenar o programa.
+
+4. Qual a função do loader?
+R: Carregar um programa da memoria secundária (rom) para a memória principal (ram).
+
+5. Quais as facilidades ofericidas pelo depurados?
+R: Acompanhar a execução de um programa, instruções por instrução, afim de detectar erros na sua lógica de sintaxe.
+
+
+## Aula dia 24/04/2024
+
+### Sistemas operacionais Monotarefa, Multitarefa e Multiusuário
+
+ - Monotarefa (monoprogramaveis): MS-DOS (Sistema Operacional de Disco); Interação por linhas de comando, cmd, entrada pelo meio de teclado. Executa apenas
+ uma tarefa por vez.
+
+  - Multitarefas (multiprogramaveis): Windows, Ubuntu; Evolução do sistema passado, permitia o compartilhamento de mais de um programa ao mesmo tempo.
+
+  - Multiusuário: permite a execução de programas por dois ou mais usuários; sistemas com Múltiplos processadores: Controlam e gerênciam dois ou mais processadores interligados em conjunto.
+
+
+  ## Software livre x Software proprietário
+
+   - Software proprietário (windows): Custo de licença, codigo fechado (sem acesso ao kernel ). 
+   - Software livre (Ubuntu): Sem custo de licença, código aberto (acesso ao kernel).
